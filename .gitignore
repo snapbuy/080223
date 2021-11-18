@@ -104,3 +104,7 @@ docs/_build/
 
 # PyBuilder
 target/
+.vscode/settings.json
+ch01/ch01.ipynb
+ch02/ch02.ipynb
+.vscode/settings.json
